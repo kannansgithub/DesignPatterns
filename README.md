@@ -17,7 +17,7 @@ CQRS pattern states that we must separate the operations for reading the data fr
 This pattern is better suited to larger applications where the requirements and load levels between read and write operations are different.
 **File Structure**
 
-![Application file structure](img/filestrut.jpg)
+![Application file structure](/img/FileStrut.jpg)
 **Output**
 
-![Output for the application](img/output.jpg)
+![Output for the application](/img/output.jpg)
