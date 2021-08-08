@@ -20,4 +20,4 @@ This pattern is better suited to larger applications where the requirements and 
 ![Application file structure](/img/FileStrut.jpg)
 **Output**
 
-![Output for the application](/img/output.jpg)
+![Output for the application](/img/Output.jpg)
